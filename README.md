@@ -1,4 +1,4 @@
-# text-summarization-based-on-transformers
+# Text Summarization based on Transformers
 
 This repository contains implementations of both abstractive and extractive models for Chinese Text Summarization on several summarization datasets.
 - Abstractive models, mainly based on Pre-trained Seq2Seq architecture
